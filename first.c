@@ -1,4 +1,5 @@
 #include <stdio.h>
 int main (){
-	printf("First C code file");
+	printf("Hello world!\n");
+	printf("First c code file");
 }
