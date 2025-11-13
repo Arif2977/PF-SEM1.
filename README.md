@@ -1,5 +1,5 @@
 # PF-SEM1.
-all sem 1 tasks for pf
+sem 1 tasks for Programming Fundamentals
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
 
 
